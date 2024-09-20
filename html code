@@ -1,0 +1,64 @@
+
+<head>
+    <title>Book Shop</title>
+    <link rel="stylesheet" href="styles.css">
+    <h1 class="title"> BOOK SHOP </h1>
+</head>
+
+<button class="large-button">Chill</button>
+    
+<div aria-hidden="true" class="bottom-box"></div>
+
+<button class="top-button">Challanging</button>
+
+<h3 class="romancetitle">Romance</h3>
+
+<h3 class="designtitle">Design</h3>
+
+<h3 class="horrortitle">Horror</h3>
+
+
+
+
+<div aria-hidden="true" class="bb1"></div>
+
+<img src="06Love of My Life.png" alt="The book, 'Love of My Life' showing two figures standing close to each other with a low sunset behind them" class="loveofmylife">
+
+<div aria-hidden="true"class="bb2"></div>
+
+<img src="08The Journey.png" alt="The book, 'The Journey of our Love, featuring a woman looking longingly off the side of the camera with black and red behind her'"class="thejourney">
+
+<div aria-hidden="true"class="bb3"></div>
+
+<img src="04Hearts Alight.png" alt="The book, 'Hearts Alight', featuring a couple who appear to be sitting on a balcony, with an orange building behind them in a cartoon style" class="heartsalight">
+
+
+
+
+
+<div aria-hidden="true"class="bb4"></div>
+
+<img src="07The Design of Books.png" alt="The book, 'The Design of Books' featuring a scatter of words among an orange background"class="designbooks">
+
+<div aria-hidden="true"class="bb5"></div>
+
+<img src="the mind.png" alt="The book, 'The mind of a Leader' on the yellow cover, there is a white figure somwhat resembeling a pawn in chess, or a keyhole to a door"class="themind">
+
+<div aria-hidden="true"class="bb6"></div>
+
+<img src="03Design Alchemy.png" alt="The book, 'Design Alchemy' featuring a colorful geometric mosaic that resembles the face of a dog." class="Alchemy">
+
+
+
+
+<div aria-hidden="true"class="bb7"></div>
+
+<img src="10The Stand.png" alt="The book, 'The stand' featuring a white skull that is arching over a group of people, symbolising impending death. There is one red figure in the middle, perhaps the main character."class="thestand">
+
+<div aria-hidden="true"class="bb8"></div>
+
+<img src="09The Killer.png" alt="The book, 'The Killer Poison' featuring a black skull sinking into a void of darkness with red above"class="thekiller">
+
+<div aria-hidden="true"class="bb9"></div>
+
+<img src="01Alone.png" alt="The book, 'Alone' featuring a singular man who is walking in a dim light. The colors of this cover are very dark and greyscale, emphasizing the aspect of being alone."class="alone">
