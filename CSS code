@@ -1,0 +1,238 @@
+h1 {
+    color: black;;
+    letter-spacing:15px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:bold;
+}
+
+.title {
+    position:fixed;
+    top: 30px;
+    left: 60px;
+  }
+
+body {
+    background-color: #FEF9F1;
+}
+
+.large-button {
+    width: 200px;
+    height: 60px;
+    color: black;
+    background-color: white;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    border-width: 1.5px;
+    position:fixed;
+    top: 150px;
+    left: 65px;
+}
+
+.bottom-box {
+    width: 200px;
+    height: 60px;
+    color: black;
+    background-color: black;
+    top: 40px;
+    border-width: 0px;
+    position:fixed;
+    top: 150px;
+    left: 280;
+}
+
+.top-button {
+    width: 200px;
+    height: 60px;
+    color: white;
+    background-color: rgb(20, 20, 139);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    border-width: 0px;
+    position:fixed;
+    top: 143px;
+    left: 273;
+}
+
+.romancetitle {
+    font-weight: bold;
+    letter-spacing: 5px;
+    position:fixed;
+    top: 270px;
+    left: 60px;
+}
+
+.designtitle {
+    position: fixed;
+    top: 490px;
+    left: 60px;
+}
+
+.horrortitle {
+    position: fixed;
+    top: 710px;
+    left: 60px;
+}
+
+.loveofmylife {
+    position: fixed; 
+    top: 335px;
+    left: 55px;
+   width: 20%;
+   height: auto;
+}
+
+.bb1 {
+    color: black;
+    background-color: black;
+    position: fixed;
+    top:340px;
+    left:60px;
+    width: 100px;
+    height: 135px;
+}
+
+.thejourney {
+    position: fixed; 
+    top: 335px;
+    left: 200px;
+   width: 20%;
+   height: auto;
+}
+
+.bb2 {
+    color: black;
+    background-color: black;
+    position: fixed;
+    top:340px;
+    left:205px;
+    width: 100px;
+    height: 135px;
+}
+
+.heartsalight {
+    position: fixed; 
+    top: 335px;
+    left: 350px;
+   width: 20%;
+   height: auto;
+}
+
+.bb3 {
+    color: black;
+    background-color: black;
+    position: fixed;
+    top:340px;
+    left:355px;
+    width: 100px;
+    height: 135px;
+}
+
+.designbooks {
+    position: fixed; 
+    top: 560px;
+    left: 55px;
+   width: 20%;
+   height: auto;
+}
+
+.bb4 {
+    color: black;
+    background-color: black;
+    position: fixed;
+    top: 565px;
+    left:60px;
+    width: 100px;
+    height: 135px;
+}
+
+.themind {
+    position: fixed; 
+    top: 560px;
+    left: 200px;
+   width: 20%;
+   height: auto;
+}
+
+.bb5 {
+    color: black;
+    background-color: black;
+    position: fixed;
+    top: 565px;
+    left:205px;
+    width: 100px;
+    height: 135px;
+}
+
+.alchemy {
+    position: fixed; 
+    top: 560px;
+    left: 350px;
+   width: 20%;
+   height: auto;
+}
+
+.bb6 {
+    color: black;
+    background-color: black;
+    position: fixed;
+    top: 565px;
+    left:355px;
+    width: 100px;
+    height: 135px;
+}
+
+.thestand {
+    position: fixed; 
+    top: 780px;
+    left: 55px;
+   width: 20%;
+   height: auto;
+}
+
+.bb7 {
+    color: black;
+    background-color: black;
+    position: fixed;
+    top: 785px;
+    left:60px;
+    width: 100px;
+    height: 135px;
+}
+
+.thekiller {
+    position: fixed; 
+    top: 780px;
+    left: 200px;
+   width: 20%;
+   height: auto;
+}
+
+.bb8 {
+    color: black;
+    background-color: black;
+    position: fixed;
+    top: 785px;
+    left:205px;
+    width: 100px;
+    height: 135px;
+}
+
+.alone {
+    position: fixed; 
+    top: 780px;
+    left: 350px;
+   width: 20%;
+   height: auto;
+}
+
+.bb9 {
+    color: black;
+    background-color: black;
+    position: fixed;
+    top: 785px;
+    left:355px;
+    width: 100px;
+    height: 135px;
+}
